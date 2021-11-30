@@ -10,6 +10,11 @@
 - 🥅 2021-2022 Goals: Contribute more to Open Source projects
 - ⚡ I'm learning to play guitar and I am a huge Mix Martial Art fan
 
+<br />
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/tomyotwongjai/github-readme-stats)
+
 ### Connect with me:
 
 [<img align="left" alt="tomyotwongjai" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -42,7 +47,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomyotwongjai)](https://github.com/tomyotwongjai/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomyotwongjai&theme=react&show_icons=true)](https://github.com/tomyotwongjai/github-readme-stats)
 
 </details>
 
