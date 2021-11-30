@@ -17,7 +17,7 @@
 
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomyotwongjai&theme=react&show_icons=true)](https://github.com/tomyotwongjai/github-readme-stats)---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/tomyotwongjai/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/tomyotwongjai/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomyotwongjai&theme=react&show_icons=true)](https://github.com/tomyotwongjai/github-readme-stats)
 
 ### Connect with me:
 
@@ -46,6 +46,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Equality Operators](https://dev.to/tomyotwongjai/equality-operators-33io)
 - [Logical Operators](https://dev.to/tomyotwongjai/logical-operators-2ei2)
 - [Control Flow in JS](https://dev.to/tomyotwongjai/control-flow-in-js-1ob6)
