@@ -37,6 +37,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Equality Operators](https://dev.to/tomyotwongjai/equality-operators-33io)
+- [Logical Operators](https://dev.to/tomyotwongjai/logical-operators-2ei2)
+- [Control Flow in JS](https://dev.to/tomyotwongjai/control-flow-in-js-1ob6)
+- [Fetching weather API Using async/await &amp; axios in react.](https://dev.to/tomyotwongjai/fetching-weather-api-using-asyncawait-axios-in-react-1hd2)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
