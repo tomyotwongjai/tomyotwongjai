@@ -13,7 +13,16 @@
 <br />
 <br />
 
+<summary>:zap: GitHub Stats</summary>
+
+<br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/tomyotwongjai/github-readme-stats)
+
+<br />
+<br />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomyotwongjai&theme=react&show_icons=true)](https://github.com/tomyotwongjai/github-readme-stats)
 
 ### Connect with me:
 
@@ -42,18 +51,12 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Equality Operators](https://dev.to/tomyotwongjai/equality-operators-33io)
 - [Logical Operators](https://dev.to/tomyotwongjai/logical-operators-2ei2)
 - [Control Flow in JS](https://dev.to/tomyotwongjai/control-flow-in-js-1ob6)
 - [Fetching weather API Using async/await &amp; axios in react.](https://dev.to/tomyotwongjai/fetching-weather-api-using-asyncawait-axios-in-react-1hd2)
 <!-- BLOG-POST-LIST:END -->
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomyotwongjai&theme=react&show_icons=true)](https://github.com/tomyotwongjai/github-readme-stats)
-
-</details>
 
 [website]: https://tomyotwongjai.netlify.app
 [twitter]: https://twitter.com/tom_yotwongjai
