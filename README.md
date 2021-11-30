@@ -51,7 +51,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Equality Operators](https://dev.to/tomyotwongjai/equality-operators-33io)
 - [Logical Operators](https://dev.to/tomyotwongjai/logical-operators-2ei2)
 - [Control Flow in JS](https://dev.to/tomyotwongjai/control-flow-in-js-1ob6)
