@@ -39,6 +39,6 @@
 
 </details>
 
-[website]: https://tomyotwongja.netlify.app
+[website]: https://tomyotwongjai.netlify.app
 [twitter]: https://twitter.com/tom_yotwongjai
 [linkedin]: https://www.linkedin.com/in/tomyotwongjai/
