@@ -17,7 +17,7 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/tomyotwongjai/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomyotwongjai&theme=react&show_icons=true)](https://github.com/tomyotwongjai/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomyotwongjai&layout=compact)](https://github.com/tomyotwongjai/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomyotwongjai&theme=vue&show_icons=true)](https://github.com/tomyotwongjai/github-readme-stats)
 
 ### Connect with me:
 
