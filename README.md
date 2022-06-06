@@ -1,14 +1,13 @@
 ### Hi there, I'm Tom - [website] 👋
 
-[![Website](https://img.shields.io/website?label=tomyotwongjai.vercel.app&style=for-the-badge&url=https%3A%2F%2Ftomyotwongjai.vercel.app)](https://tomyotwongjai.vercel.app)
+[![Website](https://img.shields.io/website?label=tomyotwongjai.vercel.app&style=for-the-badge&url=https%3A%2F%2Ftomyotwongjai.vercel.app)](https://tomyotwongjai.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/tom_yotwongjai?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftom_yotwongjai&screen_name=tom_yotwongjai)
 
 ## I'm a self-taught Developer, and looking to be the best version of myself
 
-- 🌱 I’m currently learning typscript/react/vue/tailwindCSS
+- 🌱 I’m currently learning all things front end
 - 👯 I’m looking to collaborate with other and becoming a fulltime front-end developer
 - 🥅 2021-2022 Goals: Contribute more to Open Source projects
-- ⚡ I'm learning to play guitar and I am a huge Mix Martial Art fan
 
 <br />
 <br />
