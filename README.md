@@ -52,6 +52,6 @@
 - [Fetching weather API Using async/await &amp; axios in react.](https://dev.to/tomyotwongjai/fetching-weather-api-using-asyncawait-axios-in-react-1hd2)
 <!-- BLOG-POST-LIST:END -->
 
-[website]: https://tomyotwongjai.netlify.app
+[website]: https://tomyotwongjai.me
 [twitter]: https://twitter.com/tom_yotwongjai
 [linkedin]: https://www.linkedin.com/in/tomyotwongjai/
